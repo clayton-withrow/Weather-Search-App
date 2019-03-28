@@ -8,6 +8,6 @@ Instructions on running app:
 1. Install node.js https://nodejs.org/en/
 2. Run git clone https://github.com/clayton-withrow/Weather-Search-App.git
 3. cd into the directory and run the following:
-npm install --save react-router-dom
-npm start to start the local development server
+4. npm install --save react-router-dom
+5. npm start to start the local development server
   
